@@ -1,6 +1,7 @@
 import { Button, buttonVariants } from "@/components/ui/button";
 import Link from "next/link";
 import type { Metadata } from "next/types";
+import RootLayout from "../layout";
 
 export const metadata: Metadata = {
   title: "Donate",

@@ -1,4 +1,5 @@
 import type { Metadata } from "next/types";
+import RootLayout from "../layout";
 
 export const metadata: Metadata = {
   title: "Contact Us",
